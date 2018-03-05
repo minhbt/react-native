@@ -24,5 +24,5 @@ const styles = StyleSheet.create({
     backgroundColor: '#F5FCFF',
   },
 });
-
+// Hello word
 AppRegistry.registerComponent('loginAnimation', () => loginAnimation);
